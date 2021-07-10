@@ -1,0 +1,12 @@
+h1{color : brown}
+       *{border : Solid}
+       .header{
+              background-color : #ff7c00;
+              display : flex;
+              justify-content : space-between;
+       }
+    
+    
+    
+    
+  
